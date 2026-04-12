@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Push Draft PR"
+  short_description: "変更確認から commit、push、Draft PR 作成まで進める。"
+  default_prompt: "Use $git-commit-push-draft-pr to review my changes, make a focused commit, push the branch, and create a draft PR."
