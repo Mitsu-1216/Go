@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Push"
+  short_description: "変更確認から commit、push まで安全に進める。"
+  default_prompt: "Use $git-commit-push to review my changes, make a focused commit, and push the current branch safely."
