@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Push Fresh Draft PR"
+  short_description: "Commit, push, and create a new Draft PR on a fresh branch."
+  default_prompt: "Use $git-commit-push-fresh-draft-pr to review my changes, make a focused commit, push a fresh branch, and create a new Draft PR without reusing an existing PR."
