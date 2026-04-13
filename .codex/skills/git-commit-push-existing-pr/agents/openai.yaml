@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Push Existing PR"
+  short_description: "Commit, push, and update an existing PR on the current branch."
+  default_prompt: "Use $git-commit-push-existing-pr to review my changes, make a focused commit, push the current branch, and update the existing PR tied to it."
