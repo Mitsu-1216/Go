@@ -33,6 +33,6 @@ func main() {
 	p.PrintX()
 	(*p).PrintX()
 
-	// DoubleX(v) // compile error
+	//DoubleX(v) // compile error
 	DoubleX(&v)
 }
